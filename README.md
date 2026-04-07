@@ -22,4 +22,4 @@ print
 [1, 3, 2]
 
 ## Run
-py list_commands.py
+
